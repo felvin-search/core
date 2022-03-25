@@ -1,7 +1,7 @@
 {
   "name": "@felvin-search/core",
   "description": "Core utilities for instant apps.",
-  "version": "1.56.0",
+  "version": "1.57.0",
   "main": "./src/index.ts",
   "scripts": {
     "build": "felvin-cli build:app"
