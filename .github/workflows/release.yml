@@ -18,7 +18,7 @@ jobs:
           always-auth: true
       - run: yarn install
       - run: |
-          yarn version minor
+          yarn version --minor
           git add .
           git commit -m "Minor version bump;"
           git push
